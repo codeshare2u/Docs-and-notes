@@ -1,5 +1,8 @@
 $ExecutionContext.SessionState.LanguageMode
 
+Set Language Mode
+
+$ExecutionContext.SessionState.LanguageMode = "ConstrainedLanguage"
 PowerShell supports the following language modes:
 
 FullLanguage
